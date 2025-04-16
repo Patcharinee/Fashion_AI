@@ -6,11 +6,7 @@
 #### This Colab notebook demonstrates how AI can transform the clothes in your photos based on simple text descriptions.  
 Just upload a picture, click to auto-generate mask for the area of the photo you need to transform, tell the AI what outfit you'd like to see, and watch it work its magic !  
 
-
-https://github.com/user-attachments/assets/6ad846ca-b8c2-4a2a-9caf-6dd8a9b49dc0
-
-
-
+https://github.com/user-attachments/assets/3e017cff-94de-4b86-9b82-b83ef94e0f70
 
 ### Google colab notebook link:
 https://colab.research.google.com/github/Patcharinee/Fashion_AI/blob/main/Fashion_AI_1_5.ipynb
