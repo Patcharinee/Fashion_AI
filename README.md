@@ -7,6 +7,11 @@
 Just upload a picture, click to auto-generate mask for the area of the photo you need to transform, tell the AI what outfit you'd like to see, and watch it work its magic !  
 
 
+https://github.com/user-attachments/assets/6ad846ca-b8c2-4a2a-9caf-6dd8a9b49dc0
+
+
+
+
 ### Google colab notebook link:
 https://colab.research.google.com/github/Patcharinee/Fashion_AI/blob/main/Fashion_AI_1_5.ipynb
 
