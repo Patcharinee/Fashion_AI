@@ -1,9 +1,9 @@
 
 # :dress: Fashion AI
 
-### Overview
-
 #### This Colab notebook demonstrates how AI can transform the clothes in your photos based on simple text descriptions.  
+### Google colab notebook link:
+https://colab.research.google.com/github/Patcharinee/Fashion_AI/blob/main/Fashion_AI_1_5.ipynb
 
 
 ![Fashion_AI_Examples](https://github.com/user-attachments/assets/2ca84aa2-7157-416c-bb29-c443646c6f6f)
@@ -14,8 +14,7 @@ Just upload a picture, click to auto-generate mask for the area of the photo you
 
 https://github.com/user-attachments/assets/3e017cff-94de-4b86-9b82-b83ef94e0f70
 
-### Google colab notebook link:
-https://colab.research.google.com/github/Patcharinee/Fashion_AI/blob/main/Fashion_AI_1_5.ipynb
+
 
 
 ### Approach
